@@ -6,3 +6,9 @@
 
 @import "../pages/font.css";
 
+@import "../classes/width.css";
+
+
+.salam {height: 100px;
+witdh: 90%;
+background-color: powderblue;}
